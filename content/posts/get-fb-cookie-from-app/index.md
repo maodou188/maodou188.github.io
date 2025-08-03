@@ -51,19 +51,18 @@ Facebook App登录成功后会生成一个`authentication`文件，这个文件�
 
 下面是我通过`cat`命令拿到乱码文件的内容：
 
-![](images/1.jpeg)
+![](images/1.JPG)
 
 虽然有点乱码，但还是能够识别出 Cookie 字符串。可以通过`\[.*?\]`来匹配 Cookie 字符串。
 
 
 ### 买个关子
 
-还是一种情况是`authentication`文件中的`sessi on_cookies_string`字段是空的，并没有我们想要的 Cookie 字符串，这种情况
+还有一种情况是`authentication`文件中的`sessi on_cookies_string`字段是空的，并没有我们想要的 Cookie 字符串，这种情况
 一般是出现在找回账号的后。
 
 虽然它没有直接生成 Cookie 字符串，但还是有方法可以得到 Cookie，这个以后我再单独出个文章讲讲如何通过其他的内容生成用户的
 认证 Cookie 然后直接通过浏览器登录。
 
-
-
+ 
 
