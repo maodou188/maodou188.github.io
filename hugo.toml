@@ -1,0 +1,8 @@
+baseURL = 'https://maodou178.github.io'
+languageCode = 'zh-CN'
+title = '毛豆 Facebook'
+theme = 'stack'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
