@@ -4,11 +4,11 @@
 * 所有账号已按国家设置姓名、上传头像、绑定手机&邮箱，开启2fa认证
 * 接受一切有有量定制，唯一TG客服：**@maodou0001** 
 
-![IMG_2517](https://github.com/user-attachments/assets/57969b09-907c-4fcd-828e-b4244f61058a)
+![IMG_2517](https://blog.md888.cc/posts/sale-fb-account/images/ad.jpg)
 
 # 联系我们
 
-🌏官网：https://www.maodou168.top
+🌏官网：https://md888.cc
 
 ✈️TG频道：https://t.me/maodou186
 
