@@ -2,6 +2,7 @@ baseURL = 'https://blog.md888.cc'
 languageCode = 'zh-CN'
 title = '毛豆 Facebook'
 theme = 'stack'
+timeZone = 'Asia/Shanghai'
 
 [caches]
   [caches.images]
