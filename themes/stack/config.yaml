@@ -8,23 +8,34 @@ module:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main:
-        - name: 关于我们
+        - name: 主页
+          url: /
+          weight: 1
+          params:
+            icon: home     
+        - name: 官方商店
+          url: https://md888.cc
+          weight: 2
+          params:
+            newTab: true
+            icon: shopping-bag            
+        - name: 联系我们
           url: /posts/sale-fb-account/
           weight: 100
           params:
-            #icon: flame
+            icon: link
     social:
         - identifier: telegram
           name: Telegram
           url: https://t.me/maodou0001
           params:
               icon: brand-telegram
-
-        - identifier: shop
-          name: Shop
-          url: https://www.maodou168.top/
+        - identifier: youtube
+          name: Youtube
+          url: https://youtube.com/@maodou0001?feature=shared
           params:
-              icon: world-www
+              icon: brand-youtube
+     
 params:         
     mainSections:
         - posts
@@ -140,7 +151,8 @@ params:
             id:
 
     widgets:
-        homepage: []
+        homepage: 
+            - type: search
         page: []
 
     opengraph:

@@ -12,7 +12,7 @@ draft = false
 * 所有账号已按国家设置姓名、上传头像、绑定手机&邮箱，开启2fa认证
 * 接受一切有有量定制，唯一TG客服：**@maodou0001** 
 
-![](images/ad.jpeg)
+![](images/ad.jpg)
 
 # 联系我们
 
