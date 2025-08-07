@@ -3,6 +3,7 @@ languageCode = 'zh-CN'
 title = '毛豆 Facebook'
 theme = 'stack'
 timeZone = 'Asia/Shanghai'
+enableRobotsTXT = false
 
 [caches]
   [caches.images]
