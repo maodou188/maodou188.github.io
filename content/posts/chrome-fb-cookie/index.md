@@ -16,9 +16,7 @@ draft = false
  
 
 
-### Cookie 的使用
-
-#### Cookie 的格式
+### Cookie 的格式
 
 在导入 Cookie 之前先说一下 Cookie 两种格式：
 
@@ -47,6 +45,8 @@ draft = false
 	"samesite": "None"
 }]
 ```
+**注意：如果JSON中有转义符号`\`需要去掉，如path部分可能是`\/`，实际是`/`**
+
 2. URL 格式
 
 ```txt
@@ -55,7 +55,7 @@ c_user=61577773708449; xs=xxx
 
 以上两种格式，`Cookie-Editor` 都支持。
 
-#### 导入 Cookie 
+### 导入 Cookie 
 
 1. 使用 Chrome 浏览器打开 [Facebook](https://www.Facebook.com]
 2. 使用 `Cookie-Editor` 导入 Cookie
