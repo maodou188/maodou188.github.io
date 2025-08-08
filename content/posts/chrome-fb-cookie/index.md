@@ -47,7 +47,7 @@ draft = false
 ```
 **注意：如果JSON中有转义符号`\`需要去掉，如path部分可能是`\/`，实际是`/`**
 
-2. URL 格式
+2. Header 格式
 
 ```txt
 c_user=61577773708449; xs=xxx
