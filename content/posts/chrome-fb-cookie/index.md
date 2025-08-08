@@ -57,7 +57,7 @@ c_user=61577773708449; xs=xxx
 
 ### 导入 Cookie 
 
-1. 使用 Chrome 浏览器打开 [Facebook](https://www.Facebook.com]
+1. 使用 Chrome 浏览器打开 [Facebook](https://www.Facebook.com)
 2. 使用 `Cookie-Editor` 导入 Cookie
 3. 导入成功后，刷新网页就登录成功了
 
