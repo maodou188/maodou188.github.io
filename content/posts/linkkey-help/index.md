@@ -103,17 +103,9 @@ Link Key 是一款面向跨境电商、广告投放、社媒运营用户的 Andr
 * 一键登录
 * 多账号切换
 
-👉 你可以在此处嵌入教学视频
-（建议放在本段下方，提升博客停留时长和转化）
 
-<!-- 示例 -->
-<iframe 
-  src="你的视频地址"
-  width="100%" 
-  height="480" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
+{{< video src="video/help.mp4" >}}
+
 
 ### 八、相关工具下载地址汇总
 
